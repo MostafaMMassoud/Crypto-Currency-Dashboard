@@ -6,7 +6,7 @@ This dashboard provides an interactive visualization of various crypto currencie
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![](https://github.com/MostafaMMassoud/Crypto-Currency-Dashboard/blob/main/assets/demo.mp4)
+![](assets/demo.gif)
 
 ### Built With
 
