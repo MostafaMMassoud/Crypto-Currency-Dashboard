@@ -20,7 +20,8 @@ def read_data(coin, path="datasets/"):
 def generate_currency_card(currency_name, currency_src):
     return dbc.Button(id=f"{currency_name}_button", 
 						children=[currency_name, html.Img(src=currency_src, width=40, height=40)],
-						style={"margin": "5px", 'border': 'solid', 'borderWidth': '0px','width':"100"})
+						style={"margin": "5px", 'border': 'solid', 'borderWidth': '0px','width':"100"},
+                        color = 'secondary')
 						
 
 # Dash Components						
